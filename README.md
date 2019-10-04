@@ -1,2 +1,2 @@
 # Books
-Books for learning programming
+Books related to technology and programming.
